@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_value</name>
+   <tag></tag>
+   <elementGuidId>05b9fe24-b085-4869-a7ff-cd2669b276a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@label = 'floating-label' and (text() = '${var}' or . = '${var}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>floating-label</value>
+      <webElementGuid>8e6cdcc6-5893-45fb-9eb0-f2a513f4754f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${var}</value>
+      <webElementGuid>d16a90ce-0cd9-4c59-82c9-2e5da4463b57</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

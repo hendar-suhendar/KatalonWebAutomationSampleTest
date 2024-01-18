@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek rekomendasi harga properti ideal dengan memasukkan total penghasilan dan jangka waktu yang sesuai</description>
+   <name>TC1_Positive_Rekomendasi Harga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb0a6a07-50b3-4ffd-ad13-2c81882a5469</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d378ee9-6aed-4ebc-a217-d268505f03b6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e3b1c20f-744b-492e-acac-b9859ff19370</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>74f9e662-cbc3-4042-a386-5baf5a01a435</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'27000000'</defaultValue>
+      <description></description>
+      <id>7d378ee9-6aed-4ebc-a217-d268505f03b6</id>
+      <masked>true</masked>
+      <name>Penghasilan_Total</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000000'</defaultValue>
+      <description></description>
+      <id>e3b1c20f-744b-492e-acac-b9859ff19370</id>
+      <masked>true</masked>
+      <name>Pengeluaran</name>
+   </variable>
+   <variable>
+      <defaultValue>'10 Tahun'</defaultValue>
+      <description></description>
+      <id>74f9e662-cbc3-4042-a386-5baf5a01a435</id>
+      <masked>true</masked>
+      <name>Jangka_Waktu</name>
+   </variable>
+</TestCaseEntity>

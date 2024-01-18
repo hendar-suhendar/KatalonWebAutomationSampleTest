@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek rekomendasi harga dengan tanpa input  Pengeluaran, Pemasukkan dan Jangka Waktu</description>
+   <name>TC4_Negative_Rekomendasi Harga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c440e83-43bc-4f03-a149-b6171fe406d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>01cabc1d-fb83-44cd-8d7d-44100ed8545a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b234b24a-1997-4d1d-a0d1-6559d334ccdd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e1b5c5e-005e-43d4-bc3a-7f7904b08915</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'6000000'</defaultValue>
+      <description></description>
+      <id>01cabc1d-fb83-44cd-8d7d-44100ed8545a</id>
+      <masked>true</masked>
+      <name>Penghasilan_Total</name>
+   </variable>
+   <variable>
+      <defaultValue>'4000000'</defaultValue>
+      <description></description>
+      <id>b234b24a-1997-4d1d-a0d1-6559d334ccdd</id>
+      <masked>true</masked>
+      <name>Pengeluaran</name>
+   </variable>
+   <variable>
+      <defaultValue>'10 Tahun'</defaultValue>
+      <description></description>
+      <id>0e1b5c5e-005e-43d4-bc3a-7f7904b08915</id>
+      <masked>true</masked>
+      <name>Jangka_Waktu</name>
+   </variable>
+</TestCaseEntity>

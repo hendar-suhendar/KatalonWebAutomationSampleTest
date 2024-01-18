@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "F7E1009A536560892304FD0FDE931EB2",
+  "keywordClasses": [
+    {
+      "name": "services.Steps",
+      "keywordMethods": [
+        {
+          "name": "OpenWebBrowser",
+          "parameters": [
+            {
+              "name": "BaseURL",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
