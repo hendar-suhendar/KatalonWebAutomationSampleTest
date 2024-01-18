@@ -5,10 +5,9 @@ This Automate Test using Binding External Test Data and Data Driven Test
 
 >Sample Report After Execute Test :
 
-[PDF Report Sample Test.pdf…]()
+[PDF Report Sample Test.pdf](https://github.com/hendar-suhendar/MII_BTN_Sample_Test/files/13981129/PDF.Report.Sample.Test.pdf)
 
-[PDF Report DDT_Sample Test.pdf…]()
-
+[PDF Report DDT_Sample Test.pdf](https://github.com/hendar-suhendar/MII_BTN_Sample_Test/files/13981133/PDF.Report.DDT_Sample.Test.pdf)
 
 
 > and This is a sample Test Case/Test Scenario document for Recommendation Price - Features
