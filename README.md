@@ -1,4 +1,4 @@
-# MII_BTN_Sample_Test
+# Katalon Web Automation Sample Test
 This Automate Test using Binding External Test Data and Data Driven Test
 > Sample for Define Test Cases
 <img width="960" alt="Sample for Define Test Cases" src="https://github.com/hendar-suhendar/MII_BTN_Sample_Test/assets/99055058/cc1528c5-1df7-4135-b7ee-3a2dcb3dbb66">
